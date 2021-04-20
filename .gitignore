@@ -1,0 +1,32 @@
+# ide
+.idea
+.vscode/settings.json
+
+# os
+.DS_Store
+.Trashes/
+Thumbs.db
+
+# dist
+ts-out
+ts-out-prod
+build
+
+# logos
+logos/*.json
+
+# npm
+node_modules
+
+# py
+venv/
+
+# misc
+.env
+coverage/
+*.log
+.bashrc
+
+# build
+*.zip
+.cache
